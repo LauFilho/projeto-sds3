@@ -14,47 +14,22 @@ function DataTable() {
                 </thead>
                 <tbody>
                     <tr>
-                        <td>22/04/2021</td>
-                        <td>Barry Allen</td>
-                        <td>34</td>
-                        <td>25</td>
-                        <td>15017.00</td>
+                        <td>22/02/2019</td>
+                        <td>Luck Allen</td>
+                        <td>31</td>
+                        <td>18</td>
+                        <td>3017.00</td>
                     </tr>
+                    
                     <tr>
-                        <td>22/04/2021</td>
-                        <td>Barry Allen</td>
-                        <td>34</td>
-                        <td>25</td>
-                        <td>15017.00</td>
+                        <td>22/02/2017</td>
+                        <td>Jeff Jones</td>
+                        <td>109</td>
+                        <td>90</td>
+                        <td>200034.00</td>
                     </tr>
-                    <tr>
-                        <td>22/04/2021</td>
-                        <td>Barry Allen</td>
-                        <td>34</td>
-                        <td>25</td>
-                        <td>15017.00</td>
-                    </tr>
-                    <tr>
-                        <td>22/04/2021</td>
-                        <td>Barry Allen</td>
-                        <td>34</td>
-                        <td>25</td>
-                        <td>15017.00</td>
-                    </tr>
-                    <tr>
-                        <td>22/04/2021</td>
-                        <td>Barry Allen</td>
-                        <td>34</td>
-                        <td>25</td>
-                        <td>15017.00</td>
-                    </tr>
-                    <tr>
-                        <td>22/04/2021</td>
-                        <td>Barry Allen</td>
-                        <td>34</td>
-                        <td>25</td>
-                        <td>15017.00</td>
-                    </tr>
+                    
+                    
 
                 </tbody>
 
